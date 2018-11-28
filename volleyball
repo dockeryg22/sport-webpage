@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Volleyball</title>
+</head>
+
+<body>
+  <body style="background-color:#E7EEF0;">
+  <h1>ALL ABOUT VOLLEYBALL</h1>
+  <img src="http://d27a41718be4f8d2e13e-954a966593ea26dd28ebb3ba5e1e6362.r50.cf1.rackcdn.com/uploads/1505507562-volleyball2.jpg" alt="Volleyball">
+  <h2>Description</h2>
+ <p>Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules. It has been a part of the official program of the Summer Olympic Games since 1964.<p>The complete rules are extensive, but simply, play proceeds as follows: a player on one of the teams begins a 'rally' by serving the ball (tossing or releasing it and then hitting it with a hand or arm), from behind the back boundary line of the court, over the net, and into the receiving team's court. The receiving team must not let the ball be grounded within their court. The team may touch the ball up to 3 times, but individual players may not touch the ball twice consecutively. Typically, the first two touches are used to set up for an attack, an attempt to direct the ball back over the net in such a way that the serving team is unable to prevent it from being grounded in their court.
+
+<p>The rally continues, with each team allowed as many as three consecutive touches, until either (1): a team makes a kill, grounding the ball on the opponent's court and winning the rally; or (2): a team commits a fault and loses the rally. The team that wins the rally is awarded a point and serves the ball to start the next rally.
+  <h2> What is needed to play</h2> 
+  <ol>
+    <li>Volleyball</li>
+    <li>Volleyball net</li>
+    <li>Volleyball shoes</li> 
+    <li>Knee pads</li>
+    <li>Ankle braces (optional)</li>
+  </ol>
+  
+  <table style="width:70%">
+    <table border="5">
+      
+  <tr>
+    <th>Item</th>
+    <th>What its used for</th> 
+    <th>The average cost</th>
+  </tr>
+  <tr>
+    <td>Volleyball</td>
+    <td>The ball used in the game</td> 
+    <td>$20-$60</td>
+  </tr>
+  <tr>
+    <td>Volleyball net</td>
+    <td>Seperates the two teams and is a vital piece of equipment for the game</td> 
+    <td>$85</td>
+  </tr>
+     <tr>
+    <td>Volleyball shoes</td>
+    <td>Create traction on the floor so that players dont slip</td> 
+    <td>$40-$100</td>
+        <tr>
+    <td>Knee pads</td>
+    <td>To avoid getting burns on players knees when sliding</td> 
+    <td>$15-$25</td>
+  </tr>
+     <tr>
+    <td>Ankle braces (optional)</td>
+    <td>Keep ankles stable when player recieves forceful serves</td> 
+    <td>$20-$40</td>
+  </tr>
+  
+</table>
+
+    
+     
+</body>
+
+</html>
